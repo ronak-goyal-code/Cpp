@@ -1,0 +1,8 @@
+In each pass the nth maximum element goes to the right position.
+If there are n elements , then we require atmost n-1 passes to sort.
+ALGORITHM : 
+In each pass swap two adjacent elements if arr[i] > arr[j] .
+Iteration in each pass also reduced.
+TIME COMPLEXITY for bubble sort is O(n*n).
+SPACE COMPLEXITY for bubble sort is O(1).
+Bubble Sort is a Stable Sort because it maintain order for same elements.

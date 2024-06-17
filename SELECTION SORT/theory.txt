@@ -1,0 +1,7 @@
+n-1 swaps are required
+time tomplexities is O(n*n) in every case like best average and worst case.
+unstable sort.
+application of selection sort are 
+1) if cost of swapping is high
+2) if we want starting k minimum elements of array
+3) if size of an array is small.
