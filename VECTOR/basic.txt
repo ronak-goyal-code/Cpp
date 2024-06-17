@@ -1,0 +1,8 @@
+vector is replacement of array.
+problem of array is of fixed size but vector gives flexibility of change size according to requirement.
+vector is dynamic array.
+header file is used for vector is #include<vector>
+basic operation on vectors are push_back() , pop_back , size() , capacity() at , sort.
+by pop_back() function only size change but capacity does not change.
+if vector is full then by push_back() operation capacity of vector become twice and size is increased by 1.
+vector is pass by value. each time you pass new array is created.
