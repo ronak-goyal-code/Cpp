@@ -1,0 +1,18 @@
+#include<iostream>
+using namespace std;
+
+struct Demo{
+    int x;
+    int y;
+
+    void Display(){
+        cout<<x<<" "<<y<<endl;
+    }
+};
+
+int main(){
+    Demo d;
+    d.x = 10;
+    d.y = 5;
+    d.Display();
+}
